@@ -1,0 +1,12 @@
+/**app.wxss**/
+@import "/static/iconfont/iconfont.wxss";
+
+page {
+  height: 100%;
+}
+
+.flex {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
